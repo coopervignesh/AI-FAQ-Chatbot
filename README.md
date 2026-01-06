@@ -1,3 +1,5 @@
+<img width="1906" height="1078" alt="image1" src="https://github.com/user-attachments/assets/e3903066-2e95-45b6-ab86-acc138e0a142" />
+
 # AI-Powered FAQ Chatbot
 
 This project is an AI-powered FAQ chatbot developed using Python and Flask.
@@ -33,4 +35,13 @@ created as part of my learning process to improve my understanding of Flask
 and basic chatbot applications.
 
 ## Developed By
-**Cooper Vignesh**
+
+COOPER VIGNESH
+
+## Output
+
+<img width="1915" height="1079" alt="image3" src="https://github.com/user-attachments/assets/afba67d8-f51f-4dde-af0c-466394bc1f2c" />
+
+<img width="1914" height="1077" alt="image2" src="https://github.com/user-attachments/assets/bda1ba9a-c2e1-4b7d-9544-14f26d9af302" />
+
+
